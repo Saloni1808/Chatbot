@@ -1,6 +1,6 @@
 # Winybot
-RASA SLACK : A chat bot using machine learning/deep learning techniques(Sklearn,Tensorflow,RASA, Keras) that provides reviews, price, ratings and winery about the wines asked by the user.
+A chat bot using deep learning technique,uses RASA framework with Sklearn,Tensorflow and Keras. The bot provides wine reviews, price, ratings and winery about the wines asked by the user. The bot can be integrated with Slack.
 
-pip install -r requirements.txt will install all the installation requirements.
+The databse used here is SQL, SQLite with Python
 
-Then check for the spacy version. It should be same for the python version and for the language you want your bot to be.
+
